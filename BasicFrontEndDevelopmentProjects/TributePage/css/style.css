@@ -1,0 +1,37 @@
+body{
+  position: relative;
+}
+
+.page-section{
+  padding-top: 50px;
+  width: 100%;
+  min-height:950px;
+}
+.page-section#section1{
+  background: url("../images/AmeliaAndPlane.jpg")
+}
+
+.page-section#section2{
+  background: url("../images/amelia-4.jpg")
+}
+
+.page-section#section3{
+  background: url("../images/amelia-3.jpg")
+}
+
+.page-section#section4{
+  background: url("../images/amelia-2.jpg");
+  background-size: cover;
+}
+
+#section1 h1{
+  font-family: 'Finger Paint', monospace;
+  text-align: right;
+  font-size: 70px;
+}
+
+#section1 h6{
+  text-align: right;
+  font-family: 'Finger Paint', monospace;
+  font-size: 15px;
+}
