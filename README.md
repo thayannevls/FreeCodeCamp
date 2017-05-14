@@ -2,7 +2,7 @@
 Welcome to my FreeCodeCamp Journal! Here I show my FreeCodeCamp projects and my progress as a Camper!
 
 ## Basic Front End Development Projects
-1. [Tribute Page] (https://github.com/thayannevls/FreeCodeCamp/tree/master/BasicFrontEndDevelopmentProjects/TributePage)
+1. [Tribute Page](https://github.com/thayannevls/FreeCodeCamp/tree/master/BasicFrontEndDevelopmentProjects/TributePage)
 ## Progress
 
 ### Completed:
